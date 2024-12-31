@@ -1,0 +1,24 @@
+*** NOTE: Please see the following article for the details of the algorithms provided in this package:
+   
+    KOLARIJANI & MOHAJERIN ESFAHANI (2020),"FAST APPROXIMATE DYNAMIC PROGRAMMING FOR     INPUT-AFFINE DYNAMICS"
+
+*** DISCLAIMER: The routines "LLTd.m", "bb.m", and "fusionma.m" are borrowed from the LLT MATLAB package avialable at "netlib.org/numeralgo/na13"; see also
+
+ "YVES LUCET, FASTER THAN THE FAST LEGENDRE TRANSFORM, THE LINEAR-TIME LEGENDRE           TRANSFORM, NUMERICAL ALGORITHMS, 16 (1997), PP. 171-185."
+
+-------------------------------
+
+What to provide and how to provide it: Within the folder "MATLAB package with illustration"
+
+(1) Open the m-file "MAIN_Setting_1.m" or "MAIN_Setting_2.m".
+
+(2) Go through section "(1) Problem data (inputs given by the user)," and follow the instructions provided in the comments.
+
+(3) Once you provided the required inputs, you may run the code.
+
+(4) ALL the outputs are available in the data structure "Result". You may see the description of these variables in the comments of section "(3) Implementation and Results".
+
+-------------------------------
+
+*** NOTE: The above steps have been already carried out for the numerical examples provided in the article mentioned above; see the content of the corresponding folders within the folder "Article Examples".
+	
